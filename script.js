@@ -22,7 +22,7 @@ function getQuestions() {
         headers: {
             Accept: 'application/json'
         },
-        url: 'https://gist.githubusercontent.com/2KAbhishek/d6cf82945781ab0cfd23c883c3574fcd/raw/49218267e8c6f13417c5e49419674b53e0c6c2e4/questions.json',
+        url: 'https://raw.githubusercontent.com/2KAbhishek/question-me/main/data/questions.json',
         success: function (jsonQuestions) {
             if (typeof jsonQuestions === 'string') {
                 questionsData = JSON.parse(jsonQuestions);
