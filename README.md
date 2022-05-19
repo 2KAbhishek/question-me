@@ -26,7 +26,7 @@
 <h3>Breaks ice with random questions 🧊❓</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/question-me/main/images/screenshot.jpg" alt="question-me Demo" style="width:100%">
+  <img src= "images/screenshot.jpg" alt="question-me Demo" style="width:100%">
   <br/>
   <figcaption>question-me screenshot</figcaption>
 </figure>
